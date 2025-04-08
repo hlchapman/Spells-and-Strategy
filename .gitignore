@@ -72,3 +72,24 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity Collaborate
+.collab/
+
+# Crash dumps or performance logs
+*.dmp
+*.diaglog
+
+# Rider logs & other JetBrains user stuff
+.idea/
+*.sln.iml
+
+# Mac OS stuff (if switching between platforms)
+.DS_Store
+
+# Windows thumbnails
+Thumbs.db
+
+# Auto-generated Addressables platform folders
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/catalog.json*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash
